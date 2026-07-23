@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Data & model artifacts (usually too large for git; host separately e.g. Drive/HF Hub/Releases)
+*.zip
+*.pt
+*.pth
+*.h5
+data/
+split_dataset/
+dataset/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
