@@ -1,4 +1,4 @@
-# 🥔 Potato Leaf Disease & Nematode Symptom Classifier
+# Potato Leaf Disease & Nematode Symptom Classifier
 
 Deep learning system for detecting fungal diseases and nematode-related leaf symptoms in potato (*Solanum tuberosum L.*) crops using **EfficientNet-B0** and transfer learning. Developed as part of an Electronic Engineering research project at Universidad de Sucre (Colombia), aimed at providing an accessible, low-cost diagnostic tool for small potato and root-crop producers.
 
