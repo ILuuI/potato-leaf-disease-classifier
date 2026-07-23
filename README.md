@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🥔 Potato Leaf Disease & Nematode Symptom Classifier
+# Potato Leaf Disease & Nematode Symptom Classifier
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red?logo=pytorch&logoColor=white)](https://pytorch.org/)
