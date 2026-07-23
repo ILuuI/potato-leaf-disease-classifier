@@ -1,13 +1,15 @@
 <div align="center">
-# Potato Leaf Disease & Nematode Symptom Classifier
+
+# 🥔 Potato Leaf Disease & Nematode Symptom Classifier
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red?logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ILuuI/potato-leaf-disease-classifier/blob/main/notebooks/efficientnetb0_potato_leaf_sorter.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU-USUARIO/potato-leaf-disease-classifier/blob/main/notebooks/efficientnetb0_potato_leaf_sorter.ipynb)
+
+</div>
 
 Deep learning system for detecting fungal diseases and nematode-related leaf symptoms in potato (*Solanum tuberosum L.*) crops using **EfficientNet-B0** and transfer learning. Developed as part of an Electronic Engineering research project at Universidad de Sucre (Colombia), aimed at providing an accessible, low-cost diagnostic tool for small potato and root-crop producers.
-</div>
 
 ## Overview
 
