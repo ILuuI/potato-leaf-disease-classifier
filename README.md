@@ -53,7 +53,7 @@ The nematode class originally had only 68 images in the Multi-Crop dataset; seve
 
 > **Note on reproducibility:** an earlier iteration of this project used an additional data source for the healthy/late blight/early blight classes that could not be identified with certainty after the fact. To guarantee full traceability, the system was retrained end-to-end using only the four verified sources listed above. All results below correspond to that retraining.
 
-Drive link to the exact dataset used: (https://drive.google.com/drive/folders/1QjeEMy8VL-1tXKhhR84PR_yYgNb3KRz2?usp=sharing)
+Drive link to the exact dataset used: https://drive.google.com/drive/folders/1QjeEMy8VL-1tXKhhR84PR_yYgNb3KRz2?usp=sharing
 
 ## Results
 
